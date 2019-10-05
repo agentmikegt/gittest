@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-
-
 HEllo World!!
-=======
 Hello GIT
 
->>>>>>> master
+valet in the feature
